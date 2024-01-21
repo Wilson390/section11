@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+  
+accounts:
+ message: "Welcome to YesBank Accounts related Prod APIs"
+ contactDetails:
+  name: "John Donald- Prod"
+  email: "{cipher}3eec1826d8cf0580c8c1a61075827f39892ea8e78b195da14dcd27743616e6470e7168ba8277d39d1dc85031ecc701c3"
+ onCallSupport:
+  - 42343433
+  - 55565654

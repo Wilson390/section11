@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+  
+accounts:
+ message: "Welcome to YesBank Accounts related QA APIs"
+ contactDetails:
+  name: "John Donald- QA Developer"
+  email: "jd_qa@devloper.com"
+ onCallSupport:
+  - 42343433
+  - 55565654

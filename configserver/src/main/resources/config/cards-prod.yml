@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+  
+cards:
+ message: "Welcome to YesBank Cards related Prod APIs"
+ contactDetails:
+  name: "John Donald- Prod"
+  email: "cards_prod@devloper.com"
+ onCallSupport:
+  - 42343433
+  - 55565654

@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+  
+loans:
+ message: "Welcome to YesBank Loans related local APIs"
+ contactDetails:
+  name: "John Donald- Loans Developer"
+  email: "loans@devloper.com"
+ onCallSupport:
+  - 42343432
+  - 55565652

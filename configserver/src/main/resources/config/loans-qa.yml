@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+  
+loans:
+ message: "Welcome to YesBank Loans related QA APIs"
+ contactDetails:
+  name: "John Donald- QA Developer"
+  email: "loans_qa@devloper.com"
+ onCallSupport:
+  - 42343433
+  - 55565654

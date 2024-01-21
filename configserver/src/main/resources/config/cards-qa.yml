@@ -1,0 +1,12 @@
+build:
+ version: "1.0"
+  
+cards:
+ message: "Welcome to YesBank Cards related QA APIs"
+ contactDetails:
+  name: "John Donald- QA Developer"
+  email: "cards_qa@devloper.com"
+ onCallSupport:
+  - 42343433
+  - 55565654
+  

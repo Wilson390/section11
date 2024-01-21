@@ -1,0 +1,12 @@
+build:
+ version: "1.0"
+  
+cards:
+ message: "Welcome to YesBank Cards related local APIs"
+ contactDetails:
+  name: "John Donald- Cards Developer"
+  email: "cards@devloper.com"
+ onCallSupport:
+  - 42343432
+  - 55565652
+    

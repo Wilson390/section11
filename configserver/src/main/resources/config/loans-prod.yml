@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+  
+loans:
+ message: "Welcome to YesBank Loans related Prod APIs"
+ contactDetails:
+  name: "John Donald- Prod"
+  email: "loans_prod@devloper.com"
+ onCallSupport:
+  - 42343433
+  - 55565654
